@@ -22,7 +22,7 @@ function Login() {
         <div className="login">
             <Link to='/'>
                 <img 
-                className="login__logo" 
+                className="login__logo"
                 src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png"
                 />
             </Link>
